@@ -1,7 +1,7 @@
 {
     "pageTitle": "나의 얼굴 나이 테스트",
     "mainTitle": "나는 동안일까?",
-    "subtitle": "얼굴 나이 테스트",
+    "subtitle": "얼굴 나이 테스트(39세미만)",
     "footerText": "&copy; 태영테크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/oL3XIHEGq/",
